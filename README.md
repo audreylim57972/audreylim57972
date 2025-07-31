@@ -1,4 +1,3 @@
-geeked ash
 fll artemis 57972 (2022-24)
 
 <!---
